@@ -1,0 +1,2 @@
+# ChattyLittleNPC - Mists of Pandaria English AI Voiceover Pack
+This is an AI-generated English voiceover pack designed for the ChattyLittleNPC addon, specifically tailored for the World of Warcraft: Mists of Pandaria expansion. Enhance your in-game experience with immersive AI voiceovers for NPC dialogues and interactions throughout the mysterious lands of Pandaria and beyond. Simply install this pack alongside the ChattyLittleNPC addon to bring your Mists of Pandaria adventures to life.
