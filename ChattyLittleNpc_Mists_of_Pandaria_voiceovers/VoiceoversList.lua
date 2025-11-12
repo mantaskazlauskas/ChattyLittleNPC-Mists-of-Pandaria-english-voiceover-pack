@@ -1,5 +1,5 @@
 ---@class ChattyLittleNpc_Mists_of_Pandaria_voiceovers
-local ChattyLittleNpc_Mists_of_Pandaria_voiceovers = LibStub("AceAddon-3.0"):GetAddon("ChattyLittleNpc_Mists_of_Pandaria_voiceovers")
+local ChattyLittleNpc_Mists_of_Pandaria_voiceovers = _G["ChattyLittleNpc_Mists_of_Pandaria_voiceovers"]
 
 ChattyLittleNpc_Mists_of_Pandaria_voiceovers.Voiceovers = {
     '103977_Item_039245f0a4294398c92b2eb8b16718f4.ogg',
