@@ -2,7 +2,7 @@
 ## Title: Chatty Little NPC: Mists of Pandaria
 ## Notes: This is a quest voiceover pack for Chatty Little NPC addon.
 ## Author: Tuubby
-## Version: 3.0.0
+## Version: 3.0.1
 ## Dependencies: ChattyLittleNPC
 
 Main.lua
