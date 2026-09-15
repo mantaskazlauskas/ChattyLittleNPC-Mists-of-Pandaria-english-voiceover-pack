@@ -1,8 +1,8 @@
-## Interface: 121000, 120007, 50504
+## Interface: 120100, 120007, 50504
 ## Title: Chatty Little NPC: Mists of Pandaria
 ## Notes: This is a quest voiceover pack for Chatty Little NPC addon.
 ## Author: Tuubby
-## Version: 3.1.4
+## Version: 3.1.5
 ## Dependencies: ChattyLittleNPC
 
 Main.lua
