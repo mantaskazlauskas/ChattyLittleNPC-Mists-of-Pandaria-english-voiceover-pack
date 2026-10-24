@@ -1,7 +1,7 @@
----@class ChattyLittleNpc_Mists_of_Pandaria_voiceovers
-local ChattyLittleNpc_Mists_of_Pandaria_voiceovers = _G["ChattyLittleNpc_Mists_of_Pandaria_voiceovers"]
+---@class ChattyLittleNpc_Mists_of_Pandaria_enUS_voiceovers
+local ChattyLittleNpc_Mists_of_Pandaria_enUS_voiceovers = _G["ChattyLittleNpc_Mists_of_Pandaria_enUS_voiceovers"]
 
-ChattyLittleNpc_Mists_of_Pandaria_voiceovers.Voiceovers = {
+ChattyLittleNpc_Mists_of_Pandaria_enUS_voiceovers.Voiceovers = {
     '103977_Item_039245f0a4294398c92b2eb8b16718f4.ogg',
     '103977_Item_0eddbed0c17468895af353a359632c75.ogg',
     '103977_Item_1027b16bf77fc02c31e356b407b35935.ogg',
@@ -8741,7 +8741,7 @@ ChattyLittleNpc_Mists_of_Pandaria_voiceovers.Voiceovers = {
     '95412_Item_e11d533603d912b1c8751bf422572cb0.ogg',
 }
 
-ChattyLittleNpc_Mists_of_Pandaria_voiceovers.VoiceoverDurations = {
+ChattyLittleNpc_Mists_of_Pandaria_enUS_voiceovers.VoiceoverDurations = {
     ["103977_Item_039245f0a4294398c92b2eb8b16718f4.ogg"] = 45.66,
     ["103977_Item_0eddbed0c17468895af353a359632c75.ogg"] = 61.41,
     ["103977_Item_1027b16bf77fc02c31e356b407b35935.ogg"] = 43.32,
