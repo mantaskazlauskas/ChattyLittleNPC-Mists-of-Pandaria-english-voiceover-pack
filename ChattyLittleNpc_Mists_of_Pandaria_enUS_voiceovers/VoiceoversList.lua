@@ -1,5 +1,6 @@
 ---@class ChattyLittleNpc_Mists_of_Pandaria_enUS_voiceovers
-local ChattyLittleNpc_Mists_of_Pandaria_enUS_voiceovers = _G["ChattyLittleNpc_Mists_of_Pandaria_enUS_voiceovers"]
+local ChattyLittleNpc_Mists_of_Pandaria_enUS_voiceovers = {}
+_G["ChattyLittleNpc_Mists_of_Pandaria_enUS_voiceovers"] = ChattyLittleNpc_Mists_of_Pandaria_enUS_voiceovers
 
 ChattyLittleNpc_Mists_of_Pandaria_enUS_voiceovers.Voiceovers = {
     '103977_Item_039245f0a4294398c92b2eb8b16718f4.ogg',
